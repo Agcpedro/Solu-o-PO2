@@ -23,6 +23,5 @@ do
     {
         Console.WriteLine("Informe apenas numeros");
     }
-    catch (DivideByZeroException e) { }
 
 } while (prossiga);
